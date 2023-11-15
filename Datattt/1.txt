@@ -1,0 +1,1 @@
+1;z.zidane;automovil;30000;SantaMarta;SantaMarta;2023-10-16;09:00:00;1;;;2023-10-10

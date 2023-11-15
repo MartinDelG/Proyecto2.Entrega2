@@ -1,0 +1,3 @@
+1;todo riesgo;300000
+2;Robo;54000
+3;gasolina;250000

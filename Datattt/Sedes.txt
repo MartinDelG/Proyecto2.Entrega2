@@ -1,0 +1,3 @@
+SantaMarta;08:00:00;20:00:00;l.messi;c.valderrama;1,2,3
+Bogota;08:00:00;20:00:00;c.ronaldo;a.llinas;4,5,6
+Medellin;07:00:00;20:00:00;r.gaucho;d.ospina;7,8,9

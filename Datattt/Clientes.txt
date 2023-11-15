@@ -1,0 +1,4 @@
+Zinedine;Zidane;1972-06-23;Francesa;z.zidane;Zidane;1234,false,987;100,Francia,2030-11-11,Proyecto1\Data\fotos\imagenZidane.jif;3112314972
+Xavi;Hernandez;1980-01-25;Espaniola;x.hernadez;Hernadez;5678,true,654;101,Espania,2030-11-11,poner;3112314972
+Luis;Suarez;1987-01-24;Urugaya;l.suarez;Suarez;4563,true,623;102,Uruguay,2030-11-11,poner;3112314972
+Yaya;Toure;1983-05-13;Marfilenia;y.toure;Toure;3321,true,634;103,CostaDeMarfil,2030-11-11, poner;3112314972
